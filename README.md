@@ -2,6 +2,8 @@
 
 Procesador de audio en tiempo real escrito en Go, con interfaz Raylib/SimpleUI.
 
+![Interfaz principal de IC-DSP](docs/images/ic-dsp-interface.png)
+
 ## Ejecutar
 
 La interfaz puede ejecutarse sin captura de audio:
