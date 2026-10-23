@@ -1,0 +1,15 @@
+# Build artifacts
+*.exe
+*.exe~
+
+# Go test and coverage artifacts
+*.test
+*.out
+coverage.*
+
+# Local editor and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
